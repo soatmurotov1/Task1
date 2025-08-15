@@ -106,6 +106,7 @@
 // if (num === "0") {
 //     console.log("fbgn arb ");
     
+
 // }else{
 //     console.log("Strrict equ");
     
